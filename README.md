@@ -1,8 +1,8 @@
-# RubyDotPicture2DArray
+# RubyDotPic2DAry
 二次元配列を使ったドット絵表示
 
 ## 処理
-二次元配列のデータをeachメソッドを使って出力する。
+二次元配列のデータをeach()メソッドを使って出力する。
 
 ## コード
 ```
